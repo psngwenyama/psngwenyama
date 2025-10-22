@@ -85,6 +85,7 @@ Currently, I’m pursuing my **Advanced Diploma in IT (Multimedia Computing)** a
 
 ## 🧠 Current Focus
 
+- Currently learning **C# .NET Core** and **Angular**
 - Enhancing skills in **React.js**, **Django**, and **Flutter**  
 - Building full-stack applications with clean UI and robust backends  
 - Exploring **AR/VR** and **interactive media technologies**
