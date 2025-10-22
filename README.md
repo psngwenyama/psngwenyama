@@ -98,7 +98,7 @@ Currently, I’m pursuing my **Advanced Diploma in IT (Multimedia Computing)** a
 👨‍💻 **GitHub:** [github.com/psngwenyama](https://github.com/psngwenyama)
 
 ---
-<img src="https://raw.githubusercontent.com/psngwenyama/psngwenyama/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
